@@ -44,7 +44,7 @@ for link in links:
 
     driver.get(link)
     
-    time.sleep(8)
+    time.sleep(15)
 
     pyautogui.moveTo(100, 200)
     
